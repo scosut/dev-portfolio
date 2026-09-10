@@ -214,7 +214,7 @@ export const Examples = () => {
                 'Express',
                 'MongoDB',
             ],
-            link: '#',
+            link: 'https://scosut.github.io/calculate-cost-frontend/',
             github: 'https://github.com/scosut/calculate-cost-frontend',
         },
         {
@@ -233,7 +233,7 @@ export const Examples = () => {
                 'MongoDB',
                 'PdfLib',
             ],
-            link: '#',
+            link: 'https://scosut.github.io/event-planner-frontend/',
             github: 'https://github.com/scosut/event-planner-frontend',
         },
         {
